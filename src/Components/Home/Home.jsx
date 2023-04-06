@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
-import Tshirt from '../tShirt/tShirt';
+import Tshirt from '../../Tshirt/Tshirt';
 import "./Home.css"
 import Cart from '../Cart/Cart';
 
